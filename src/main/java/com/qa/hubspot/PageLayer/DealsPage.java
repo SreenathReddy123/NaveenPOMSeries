@@ -13,5 +13,4 @@ public class DealsPage {
 		System.out.println("Deals Page");
 		return driver.getTitle();
 	}
-	
 }
